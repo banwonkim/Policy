@@ -1,4 +1,7 @@
 # My Development Philosophy
+## I'm Vibe Developer, but not a VIBE CODER.
+I may still have much to learn, but I will never surrender the ownership of my design and code.
+
 ## Beginner Oriented Programming
 **I'm a beginner forever.** Programming is a deep hole, and I see no end.
 
