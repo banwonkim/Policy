@@ -14,3 +14,6 @@ It makes beginner learning lazy and makes developers' potential disappear.
 
 ## Open source skepticism / Freeware Only
 **Open source today is broken.** People just take and never think. I'm tired of it.
+
+## Morbid scepticism in many ways
+I want to analyze academic waste
