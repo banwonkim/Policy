@@ -1,19 +1,19 @@
-# My Development Philosophy
-## I'm Vibe Developer, but not a VIBE CODER.
-I may still have much to learn, but I will never surrender the ownership of my design and code.
+# Development Policy
+## vibe coding no thanks
+vibe coding is not programming, and also coding
 
-## Beginner Oriented Programming
-**I'm a beginner forever.** Programming is a deep hole, and I see no end.
+## Cargo cult no thanks
+exclusion of superstition
 
-## Bottom-up Programming
-**Build it from the bottom.** *It's extremely hard but fun.*
+## must build from scratch
+It doesn't matter if you're a beginner or expert
 
-## Anti Vibe Coding & Cargo cult 
-Agree or not, I think **Vibe coding** breaks the essence of programming. It's not programming; it's just an dishonest form of coding... I also hate forcing "Clean Code Style" rules if someone don't understand the core logic.
-It makes beginner learning lazy and makes developers' potential disappear.
 
-## Open source skepticism / Freeware Only
+## Freeware Only, Open source skepticism
 **Open source today is broken.** People just take and never think. I'm tired of it.
 
-## Morbid scepticism in many ways
-I want to analyze academic waste
+## scepticism in many ways
+Doubt is the driving force of researching
+
+## I dont know english well
+English is hard and i dont know well 
