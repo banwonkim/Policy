@@ -1,4 +1,8 @@
 # POLICY
+## Repositories in the account basically use `harplang License`
+It's personally created, 
+
+
 ## 1. Permitted Use
 In this case, you can use the code
 - Personal Use
