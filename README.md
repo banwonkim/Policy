@@ -1,3 +1,39 @@
+# Developmental Skepticism
+
+## 1. Why Coding, Programming, and Design are Actually the Same Thing (and How They Got Split)
+
+Real Coding Happens at the Hardware Level: When you program close to the hardware (system level), you cannot separate design from coding. Abstract diagrams or models can't show how the actual hardware moves and works. In this zone, the code itself is the blueprint and the final product.
+
+Coding is Not Just "Assembling Legos": Coding isn’t cheap labor where you just follow a strict instruction manual. Even when using high-level languages, developers constantly have to make "micro-designs" to build logic, fix errors, and make things run faster.
+
+Why They Were Separated (Money and Control): Splitting these three fields wasn't because of technology. It was because of business. As the software industry grew, companies needed a way to manage massive groups of people and cut costs, so they politically forced people into specialized roles.
+
+## 2. Too Much Abstraction and the Rise of "Code Monkeys"
+
+The Dark Side of Easy Tools: Moving from languages like C/C++ to Java meant that tools started handling memory management for us. This made building things faster, but it also created a new problem: a generation of "code monkeys" who just copy-paste libraries without understanding how the actual computer works.
+
+Treating Software Like a Factory: To keep up with the crazy demand for software, companies stopped training deep, core engineers. Instead, they pushed basic, standardized methods onto everyone. This flooded the market with easily replaceable developers who only know how to type code, peaking in the hiring craze during COVID-19.
+
+## 3. Cheap Business Metrics and the "AI Will Replace Us" Hype
+   
+Obsessed with Numbers: Right now, the tech market is blinded by short-term profits and cutting costs. Managers judge a developer's value only by how much code they pump out, ignoring complex things like team politics, falling trust, and the fact that non-tech bosses are making tech decisions.
+
+The "Humans are Inefficient" Excuse: In this environment, bosses are using AI chatbots and "singularity" hype as an excuse to say, "Human developers are too expensive and slow." Because coding and design were already split and weakened, AI is now shaking the professional foundation of the whole tech world.
+
+## 4. A Broken Job Market: How Hiring Lost Its Way
+   
+Judging a Book by Its Cover: Hiring methods that only look at algorithmic coding tests or flashy, short-term portfolios have created a bad culture. People now care more about making things look good quickly, rather than actual coding skills or design logic.
+
+Nobody Knows Who is Actually Good Anymore: Since anyone can use AI to make beautiful code and designs look easy, companies can't tell who is actually smart. Senior developers don't trust the skills of new grads anymore, which is why nobody wants to hire junior devs.
+
+The Two Extreme (and Wrong) Extremes: The job market is split into two bad sides: one side loves people who use AI to mass-produce quick results, and the other side stubbornly sticks to old textbook theories or robotic coding tests. Both sides completely miss the point of real engineering, where coding and design must work together.
+
+## 5. Conclusion (The Root Cause of the Crisis)
+   
+The loss of value in software development and the fear of AI taking over aren't sudden accidents. They are structural problems that started long ago when the market grew too fast and artificially split coding, programming, and design into a hierarchy. This split created a massive workforce of easily replaceable workers without core skills. Now, AI is stepping into that exact crack, putting the entire developer ecosystem in danger.
+
+
+
 # README OR NOT
 I am developing `Harp lang`. 
 
