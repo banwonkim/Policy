@@ -1,3 +1,11 @@
+# dontcare
+- LLM Chatbot ⊂ LLM ⊂ Generative AI ⊂ Deep Learning ⊂ Machine Learning ⊂ Artificial Intelligence
+- Dont believe Tiobe
+- Easy Technology Easy language brings out strange humans
+- Ignorance is something to be ashamed of
+- vibe coder sucks
+
+
 # Developmental Skepticism
 
 ## 1. Why Coding, Programming, and Design are Actually the Same Thing (and How They Got Split)
